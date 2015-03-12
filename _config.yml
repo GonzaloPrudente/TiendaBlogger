@@ -3,7 +3,7 @@ title: Sistema tiendaonline Blogger
 email: tiendaonline@tiendaonline.uy
 description: > 
   Este sistema se basa en NO necesitar bases de datos ni archivos alojados en dominios externos para funcionar (*) , utilizando el script de SimpleCart.js. (modificado)
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/TiendaBlogger/" # the subpath of your site, e.g. /blog/
 url: "htt://github.com/gonzaloprudente/TiendaBlogger" # the base hostname & protocol for your site
 twitter_username: gonzaloprudente
 github_username:  gonzaloprudente
